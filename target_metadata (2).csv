@@ -1,0 +1,201 @@
+gene_symbol,tractability,safety_profile,has_inhibitor,clinical_trials,target_class
+TMIGD1,Difficult,High Risk,No,None,Kinase
+AQP8,Tractable,Unknown,Yes,None,Transcription Factor
+GUCA2B,Tractable,Unknown,No,Preclinical,Kinase
+KRT23,Tractable,Moderate Risk,No,None,GPCR
+FOXQ1,Difficult,Moderate Risk,In Development,Preclinical,Enzyme
+CWH43,Unknown,Moderate Risk,In Development,None,Kinase
+C2orf40,Difficult,Safe,In Development,None,Other
+RERGL,Unknown,Safe,No,None,Enzyme
+CA4,Tractable,Safe,No,None,GPCR
+MS4A12,Difficult,Moderate Risk,No,None,Kinase
+MT1JP /// MT1M /// MT1P3,Unknown,Unknown,No,None,Enzyme
+CLDN8,Unknown,Safe,Yes,Phase 1,Ion Channel
+MT1JP,Difficult,Unknown,In Development,Preclinical,GPCR
+OTOP2,Difficult,Unknown,In Development,Phase 1,Other
+CA7,Unknown,Safe,In Development,None,Transcription Factor
+CA1,Unknown,Safe,No,Preclinical,Kinase
+DPEP1,Unknown,Moderate Risk,No,Phase 1,Ion Channel
+SCNN1B,Difficult,High Risk,No,None,Enzyme
+MT1M,Tractable,High Risk,No,None,Transcription Factor
+CD177,Difficult,Moderate Risk,No,Phase 1,Kinase
+ADH1B,Tractable,Moderate Risk,No,None,Other
+MMP7,Difficult,High Risk,No,Preclinical,Kinase
+DPT,Difficult,Unknown,In Development,None,Transcription Factor
+FABP4,Unknown,Safe,No,None,Enzyme
+BMP3,Unknown,Moderate Risk,No,Preclinical,GPCR
+REG1A,Difficult,Unknown,No,Phase 1,Enzyme
+OGN,Difficult,Safe,In Development,Preclinical,Other
+CRNDE,Difficult,High Risk,No,Preclinical,Other
+VIP,Unknown,Moderate Risk,In Development,Preclinical,GPCR
+INSL5,Tractable,Moderate Risk,No,Phase 1,GPCR
+SST,Unknown,Safe,In Development,None,Other
+BEST4,Difficult,High Risk,No,Preclinical,Transcription Factor
+CLCA4,Difficult,High Risk,No,None,Kinase
+TMEM100,Unknown,Safe,No,Phase 1,Enzyme
+ZG16,Difficult,Moderate Risk,Yes,Preclinical,Transcription Factor
+MMP3,Tractable,Moderate Risk,No,None,Kinase
+PCOLCE2,Difficult,Unknown,In Development,None,GPCR
+PKIB,Difficult,Moderate Risk,No,None,GPCR
+BEST2,Tractable,Unknown,No,None,Ion Channel
+CEL,Difficult,Unknown,No,None,Transcription Factor
+GREM2,Difficult,Safe,Yes,None,Transcription Factor
+C11orf86,Tractable,High Risk,In Development,Phase 1,Kinase
+COL11A1,Difficult,High Risk,No,Preclinical,Transcription Factor
+CEACAM7,Difficult,High Risk,No,None,Other
+HRASLS2,Difficult,Safe,No,Preclinical,GPCR
+DHRS9,Difficult,Moderate Risk,No,None,Transcription Factor
+TESC,Unknown,Moderate Risk,No,None,Kinase
+ABCG2,Unknown,Safe,In Development,None,Kinase
+MMP1,Unknown,Unknown,No,Preclinical,Kinase
+TNXA /// TNXB,Unknown,Unknown,No,None,Other
+CLDN1,Difficult,Unknown,No,Preclinical,Kinase
+MUSTN1,Difficult,High Risk,No,None,Kinase
+SFRP1,Difficult,Safe,No,None,Other
+C2CD4A,Unknown,High Risk,No,Preclinical,GPCR
+GCG,Unknown,Unknown,No,None,Enzyme
+GUCA2A,Difficult,High Risk,No,None,Transcription Factor
+ETV4,Unknown,Moderate Risk,No,Phase 1,Enzyme
+CLEC3B,Tractable,Moderate Risk,No,Preclinical,Enzyme
+UGT2B17,Tractable,Unknown,Yes,Preclinical,Kinase
+CILP,Difficult,Moderate Risk,No,None,Kinase
+FABP6,Tractable,Moderate Risk,No,None,Transcription Factor
+KRT24,Unknown,Moderate Risk,No,None,GPCR
+TRPM6,Difficult,Safe,Yes,None,Other
+STMN2,Difficult,Safe,No,Preclinical,GPCR
+LY6G6D,Difficult,High Risk,No,Preclinical,Other
+VSIG2,Unknown,High Risk,No,None,GPCR
+PYY,Difficult,Safe,No,Preclinical,Kinase
+AKR1B15,Tractable,High Risk,No,None,Kinase
+C2orf88,Difficult,Safe,No,None,Ion Channel
+PLP1,Difficult,Safe,No,Preclinical,Transcription Factor
+CXCL5,Difficult,High Risk,No,Preclinical,Kinase
+TEX11,Difficult,Moderate Risk,Yes,None,Enzyme
+CFD,Difficult,Moderate Risk,No,None,Other
+FABP2,Difficult,Unknown,No,Preclinical,Kinase
+NKD2,Tractable,Safe,Yes,None,Kinase
+CHI3L1,Difficult,Safe,No,None,GPCR
+AKR1B10 /// AKR1B15 /// LOC340888,Tractable,High Risk,No,None,Transcription Factor
+SLC4A4,Unknown,Safe,In Development,None,Other
+FAM55D,Unknown,Moderate Risk,No,None,Ion Channel
+CA9,Unknown,Moderate Risk,No,None,Transcription Factor
+LOC100127888,Tractable,Moderate Risk,No,None,Ion Channel
+LOC100190940,Unknown,Safe,No,None,Kinase
+SLC17A4,Difficult,Unknown,No,None,Transcription Factor
+PLN,Difficult,Moderate Risk,In Development,None,Transcription Factor
+EPHX4,Unknown,Safe,No,None,Kinase
+HSD17B2,Difficult,Unknown,No,Preclinical,Kinase
+C6orf105,Tractable,High Risk,No,Preclinical,Kinase
+GBA3,Unknown,Unknown,Yes,None,Kinase
+ADH1C,Tractable,Moderate Risk,No,Preclinical,Other
+CLCA1,Unknown,High Risk,No,Preclinical,Kinase
+NPY,Unknown,Moderate Risk,No,None,Kinase
+LAMA1,Difficult,Moderate Risk,Yes,Phase 1,Kinase
+ADH1A /// ADH1B /// ADH1C,Tractable,High Risk,No,None,Other
+WISP2,Difficult,Unknown,In Development,Preclinical,Other
+ABI3BP,Tractable,Safe,No,None,Enzyme
+EDN3,Unknown,Moderate Risk,Yes,None,Enzyme
+CA2,Difficult,Moderate Risk,No,None,Enzyme
+MST1P9,Unknown,Moderate Risk,Yes,None,Other
+CDKN2BAS,Difficult,Moderate Risk,No,Preclinical,Enzyme
+ANPEP,Difficult,Safe,No,None,Other
+CD36,Difficult,Moderate Risk,No,None,Transcription Factor
+ANGPTL1,Tractable,Unknown,No,None,Transcription Factor
+C21orf88,Difficult,Unknown,No,None,Kinase
+HPGD,Tractable,Unknown,No,None,Kinase
+IGFBP6,Difficult,Unknown,No,None,Other
+ZBTB16,Difficult,Moderate Risk,No,Phase 1,Other
+CASQ2,Unknown,Unknown,No,None,Transcription Factor
+C7,Unknown,Moderate Risk,No,None,Kinase
+COL10A1,Unknown,Moderate Risk,No,None,Transcription Factor
+MFAP5,Difficult,High Risk,In Development,None,Transcription Factor
+KIAA1199,Difficult,Moderate Risk,No,None,Other
+MEP1B,Difficult,Safe,In Development,None,Transcription Factor
+BCHE,Unknown,Safe,In Development,Phase 1,Ion Channel
+CXCL3,Difficult,Moderate Risk,No,None,Ion Channel
+MT1H,Difficult,Moderate Risk,No,None,Other
+OSTBETA,Unknown,Unknown,In Development,None,GPCR
+CLDN2,Difficult,Moderate Risk,No,Preclinical,Transcription Factor
+FAM176A,Difficult,Safe,Yes,Preclinical,Kinase
+LDHD,Tractable,Safe,No,Preclinical,Other
+HSD3B2,Difficult,Safe,No,Preclinical,Kinase
+PDZRN4,Tractable,Safe,In Development,Phase 1,Kinase
+CHGA,Difficult,Moderate Risk,In Development,None,Transcription Factor
+SKA3,Tractable,High Risk,No,Phase 1,Other
+MAMDC2,Unknown,Moderate Risk,Yes,None,Transcription Factor
+HHLA2,Tractable,Moderate Risk,In Development,None,Transcription Factor
+ITLN1,Difficult,High Risk,No,Phase 1,GPCR
+LOC646627,Unknown,Moderate Risk,No,None,Kinase
+RSAD2,Difficult,Moderate Risk,No,Preclinical,Ion Channel
+PDE9A,Tractable,Moderate Risk,No,Preclinical,Kinase
+GPM6A,Unknown,High Risk,No,None,Enzyme
+SFRP2,Tractable,Moderate Risk,No,None,Enzyme
+CDH3,Tractable,Moderate Risk,In Development,None,Enzyme
+PDE6A,Difficult,High Risk,No,Preclinical,Kinase
+UGT2B15,Tractable,Safe,In Development,Preclinical,GPCR
+SCG2,Tractable,Safe,No,None,Enzyme
+SRPX,Unknown,Moderate Risk,In Development,None,Other
+RSPO2,Unknown,Safe,In Development,None,Other
+TNFRSF17,Difficult,Moderate Risk,No,None,Kinase
+TRIM29,Difficult,Moderate Risk,No,Preclinical,Kinase
+DES,Difficult,Moderate Risk,In Development,Preclinical,Enzyme
+ERCC6L,Difficult,Moderate Risk,Yes,Preclinical,Kinase
+MT1E,Unknown,Unknown,No,Preclinical,Transcription Factor
+AKR1C1,Unknown,Moderate Risk,No,None,Ion Channel
+CHP2,Unknown,Unknown,No,Preclinical,Transcription Factor
+MMP28,Unknown,Safe,In Development,None,Enzyme
+TCEAL2,Unknown,High Risk,In Development,Preclinical,Kinase
+GDF15,Tractable,High Risk,No,None,Ion Channel
+PTN,Unknown,Unknown,No,None,Ion Channel
+IL8,Difficult,High Risk,No,None,GPCR
+HOMER1,Unknown,Moderate Risk,No,None,Transcription Factor
+RGS13,Tractable,High Risk,No,Preclinical,Kinase
+NEFL,Unknown,Moderate Risk,No,None,Transcription Factor
+CNTN3,Tractable,Moderate Risk,No,None,Kinase
+SULT2B1,Difficult,Unknown,No,Preclinical,Other
+ENTPD5,Tractable,Safe,No,Preclinical,Transcription Factor
+HEPACAM2,Tractable,High Risk,In Development,None,Transcription Factor
+MMRN1,Difficult,Moderate Risk,No,Preclinical,Kinase
+NAP1L2,Unknown,Moderate Risk,No,None,Other
+AKR1B10 /// AKR1B15,Tractable,Moderate Risk,No,None,Kinase
+LYVE1,Unknown,Moderate Risk,No,None,Other
+SLIT3,Unknown,Moderate Risk,In Development,None,Enzyme
+BEX1,Unknown,Unknown,No,None,Kinase
+HSPB3,Unknown,Safe,No,None,Other
+ESM1,Difficult,Moderate Risk,No,Phase 1,Ion Channel
+CTSG,Unknown,Moderate Risk,Yes,Preclinical,Enzyme
+RUNDC3B,Unknown,Moderate Risk,No,None,Enzyme
+MYOT,Difficult,Safe,No,Preclinical,Enzyme
+LRP8,Difficult,Moderate Risk,No,None,Transcription Factor
+MSX2,Tractable,Safe,No,None,Kinase
+LGALS2,Difficult,Unknown,Yes,None,Enzyme
+EGFL6,Tractable,Moderate Risk,No,None,GPCR
+MMP10,Tractable,Moderate Risk,Yes,None,Kinase
+JUB,Unknown,Moderate Risk,No,None,Enzyme
+PRIMA1,Difficult,Safe,In Development,None,Other
+FAM55A,Difficult,High Risk,In Development,None,Kinase
+MYOC,Tractable,High Risk,No,Phase 1,GPCR
+SCN9A,Difficult,Safe,No,Preclinical,Transcription Factor
+FAM23A,Tractable,Moderate Risk,No,Phase 1,GPCR
+UGT1A1 /// UGT1A10 /// UGT1A3 /// UGT1A4 /// UGT1A5 /// UGT1A6 /// UGT1A7 /// UGT1A8 /// UGT1A9,Unknown,Unknown,No,Preclinical,Transcription Factor
+FHL1,Difficult,Unknown,In Development,Phase 1,Kinase
+BRCA2,Difficult,Safe,Yes,None,Enzyme
+CENPH,Unknown,Moderate Risk,No,Preclinical,Ion Channel
+SRPX2,Difficult,High Risk,In Development,None,Enzyme
+ELAVL4,Difficult,Unknown,In Development,None,Kinase
+ANXA9,Unknown,Unknown,No,None,Enzyme
+ASCL2,Tractable,Moderate Risk,In Development,None,GPCR
+MACC1,Tractable,Unknown,No,None,Kinase
+DSCR6,Difficult,Unknown,Yes,Preclinical,Enzyme
+REP15,Difficult,High Risk,No,None,GPCR
+CGREF1,Tractable,Unknown,In Development,None,Enzyme
+VSNL1,Difficult,Safe,No,None,Enzyme
+CNN1,Difficult,Safe,No,Preclinical,Transcription Factor
+FXYD1,Tractable,Moderate Risk,No,Preclinical,GPCR
+SDPR,Difficult,Moderate Risk,No,None,Enzyme
+DES /// FAM48A,Difficult,High Risk,No,Preclinical,Kinase
+SCGN,Difficult,Safe,No,None,Enzyme
+GDPD2,Difficult,Safe,No,Phase 1,Transcription Factor
+LGR5,Difficult,Moderate Risk,In Development,Phase 1,Other
+SCRG1,Unknown,Moderate Risk,No,None,Ion Channel
+NFE2L3,Tractable,Safe,No,None,Enzyme

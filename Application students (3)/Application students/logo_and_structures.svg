@@ -1,0 +1,171 @@
+<svg width="1200" height="1600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="1600" fill="#f8f9fa"/>
+  
+  <!-- Logo Section -->
+  <g id="logo">
+    <!-- DNA Helix Symbol -->
+    <ellipse cx="600" cy="100" rx="80" ry="20" fill="none" stroke="#0066cc" stroke-width="4"/>
+    <ellipse cx="600" cy="150" rx="80" ry="20" fill="none" stroke="#00cc66" stroke-width="4"/>
+    <line x1="520" y1="100" x2="560" y2="150" stroke="#0066cc" stroke-width="3"/>
+    <line x1="680" y1="100" x2="640" y2="150" stroke="#00cc66" stroke-width="3"/>
+    <circle cx="560" cy="125" r="8" fill="#ff6b6b"/>
+    <circle cx="640" cy="125" r="8" fill="#4ecdc4"/>
+    
+    <!-- Title -->
+    <text x="600" y="220" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#2c3e50">
+      PharmaCancerRevolution
+    </text>
+    <text x="600" y="260" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#7f8c8d">
+      Next-Generation Prostate Cancer Therapeutics
+    </text>
+  </g>
+  
+  <!-- Divider -->
+  <line x1="100" y1="300" x2="1100" y2="300" stroke="#bdc3c7" stroke-width="2"/>
+  
+  <!-- Molecule 1: Enzalutamide Structure -->
+  <g id="enzalutamide" transform="translate(150, 350)">
+    <text x="0" y="-10" font-family="Arial" font-size="20" font-weight="bold" fill="#2c3e50">1. ENZALUTAMIDE</text>
+    <text x="0" y="15" font-family="Arial" font-size="14" fill="#7f8c8d">ChEMBL: CHEMBL1261870</text>
+    
+    <!-- Simplified structure representation -->
+    <circle cx="100" cy="80" r="30" fill="#e74c3c" opacity="0.3"/>
+    <text x="100" y="85" text-anchor="middle" font-size="12">Benzene</text>
+    
+    <line x1="130" y1="80" x2="170" y2="80" stroke="#34495e" stroke-width="3"/>
+    
+    <circle cx="200" cy="80" r="30" fill="#3498db" opacity="0.3"/>
+    <text x="200" y="80" text-anchor="middle" font-size="10">CF₃</text>
+    <text x="200" y="95" text-anchor="middle" font-size="10">group</text>
+    
+    <line x1="130" y1="100" x2="170" y2="120" stroke="#34495e" stroke-width="3"/>
+    
+    <circle cx="200" cy="130" r="25" fill="#2ecc71" opacity="0.3"/>
+    <text x="200" y="135" text-anchor="middle" font-size="12">N-CH₃</text>
+    
+    <rect x="10" y="150" width="250" height="50" fill="#ecf0f1" rx="5"/>
+    <text x="135" y="175" text-anchor="middle" font-size="11" fill="#2c3e50">AR Antagonist</text>
+    <text x="135" y="190" text-anchor="middle" font-size="11" fill="#7f8c8d">IC₅₀: 36 nM</text>
+  </g>
+  
+  <!-- Molecule 2: Darolutamide -->
+  <g id="darolutamide" transform="translate(650, 350)">
+    <text x="0" y="-10" font-family="Arial" font-size="20" font-weight="bold" fill="#2c3e50">2. DAROLUTAMIDE ⭐</text>
+    <text x="0" y="15" font-family="Arial" font-size="14" fill="#7f8c8d">ChEMBL: CHEMBL3707346</text>
+    
+    <!-- Simplified structure -->
+    <circle cx="100" cy="80" r="30" fill="#9b59b6" opacity="0.3"/>
+    <text x="100" y="85" text-anchor="middle" font-size="10">Pyrazole</text>
+    
+    <line x1="130" y1="80" x2="170" y2="80" stroke="#34495e" stroke-width="3"/>
+    
+    <circle cx="200" cy="80" r="30" fill="#e67e22" opacity="0.3"/>
+    <text x="200" y="80" text-anchor="middle" font-size="10">CN</text>
+    <text x="200" y="95" text-anchor="middle" font-size="10">group</text>
+    
+    <line x1="100" y1="50" x2="100" y2="20" stroke="#34495e" stroke-width="3"/>
+    
+    <circle cx="100" cy="10" r="20" fill="#1abc9c" opacity="0.3"/>
+    <text x="100" y="15" text-anchor="middle" font-size="10">CF₃</text>
+    
+    <rect x="10" y="150" width="250" height="50" fill="#d5f4e6" rx="5"/>
+    <text x="135" y="175" text-anchor="middle" font-size="11" fill="#27ae60">Next-Gen AR Blocker</text>
+    <text x="135" y="190" text-anchor="middle" font-size="11" fill="#16a085">No BBB penetration!</text>
+  </g>
+  
+  <!-- Molecule 3: Abiraterone -->
+  <g id="abiraterone" transform="translate(150, 650)">
+    <text x="0" y="-10" font-family="Arial" font-size="20" font-weight="bold" fill="#2c3e50">3. ABIRATERONE</text>
+    <text x="0" y="15" font-family="Arial" font-size="14" fill="#7f8c8d">ChEMBL: CHEMBL1200920</text>
+    
+    <!-- Steroid-like structure -->
+    <rect x="50" y="50" width="40" height="40" fill="none" stroke="#34495e" stroke-width="2"/>
+    <rect x="90" y="50" width="40" height="40" fill="none" stroke="#34495e" stroke-width="2"/>
+    <rect x="90" y="90" width="40" height="40" fill="none" stroke="#34495e" stroke-width="2"/>
+    <rect x="50" y="90" width="40" height="40" fill="none" stroke="#34495e" stroke-width="2"/>
+    
+    <circle cx="150" cy="70" r="20" fill="#f39c12" opacity="0.3"/>
+    <text x="150" y="75" text-anchor="middle" font-size="10">Pyridine</text>
+    
+    <text x="70" y="75" text-anchor="middle" font-size="10">A</text>
+    <text x="110" y="75" text-anchor="middle" font-size="10">B</text>
+    <text x="110" y="115" text-anchor="middle" font-size="10">C</text>
+    <text x="70" y="115" text-anchor="middle" font-size="10">D</text>
+    
+    <rect x="10" y="150" width="250" height="50" fill="#fef5e7" rx="5"/>
+    <text x="135" y="175" text-anchor="middle" font-size="11" fill="#d68910">CYP17A1 Inhibitor</text>
+    <text x="135" y="190" text-anchor="middle" font-size="11" fill="#7f8c8d">Blocks androgen synthesis</text>
+  </g>
+  
+  <!-- Molecule 4: Olaparib -->
+  <g id="olaparib" transform="translate(650, 650)">
+    <text x="0" y="-10" font-family="Arial" font-size="20" font-weight="bold" fill="#2c3e50">4. OLAPARIB</text>
+    <text x="0" y="15" font-family="Arial" font-size="14" fill="#7f8c8d">ChEMBL: CHEMBL521686</text>
+    
+    <!-- Simplified PARP inhibitor structure -->
+    <circle cx="80" cy="80" r="35" fill="#e74c3c" opacity="0.3"/>
+    <text x="80" y="85" text-anchor="middle" font-size="10">Phthalazine</text>
+    
+    <line x1="115" y1="80" x2="145" y2="80" stroke="#34495e" stroke-width="3"/>
+    
+    <circle cx="175" cy="80" r="30" fill="#3498db" opacity="0.3"/>
+    <text x="175" y="85" text-anchor="middle" font-size="10">Piperazine</text>
+    
+    <line x1="205" y1="80" x2="235" y2="80" stroke="#34495e" stroke-width="3"/>
+    
+    <text x="260" y="85" font-size="12">-CO-</text>
+    
+    <rect x="10" y="150" width="250" height="50" fill="#ebf5fb" rx="5"/>
+    <text x="135" y="175" text-anchor="middle" font-size="11" fill="#2874a6">PARP1/2 Inhibitor</text>
+    <text x="135" y="190" text-anchor="middle" font-size="11" fill="#7f8c8d">For BRCA-mutated PCa</text>
+  </g>
+  
+  <!-- Molecule 5: Lu-177-PSMA -->
+  <g id="psma" transform="translate(150, 950)">
+    <text x="0" y="-10" font-family="Arial" font-size="20" font-weight="bold" fill="#2c3e50">5. Lu-177-PSMA-617</text>
+    <text x="0" y="15" font-family="Arial" font-size="14" fill="#7f8c8d">Radioligand Therapy</text>
+    
+    <!-- Radioactive symbol -->
+    <circle cx="130" cy="80" r="40" fill="none" stroke="#e74c3c" stroke-width="4"/>
+    <circle cx="130" cy="80" r="8" fill="#e74c3c"/>
+    <path d="M 130 80 L 110 45" stroke="#e74c3c" stroke-width="6" fill="none"/>
+    <path d="M 130 80 L 150 45" stroke="#e74c3c" stroke-width="6" fill="none"/>
+    <path d="M 130 80 L 130 120" stroke="#e74c3c" stroke-width="6" fill="none"/>
+    
+    <text x="200" y="85" font-size="16" fill="#c0392b">₁₇₇Lu</text>
+    
+    <rect x="10" y="150" width="250" height="50" fill="#fadbd8" rx="5"/>
+    <text x="135" y="175" text-anchor="middle" font-size="11" fill="#922b21">Targeted α-therapy</text>
+    <text x="135" y="190" text-anchor="middle" font-size="11" fill="#7f8c8d">Binds PSMA on tumor cells</text>
+  </g>
+  
+  <!-- Key Advantages Section -->
+  <g id="advantages" transform="translate(650, 950)">
+    <text x="0" y="0" font-family="Arial" font-size="18" font-weight="bold" fill="#2c3e50">KEY ADVANTAGES:</text>
+    
+    <rect x="0" y="20" width="250" height="30" fill="#d5f4e6" rx="3"/>
+    <text x="10" y="40" font-size="12" fill="#27ae60">✓ Darolutamide: No seizures</text>
+    
+    <rect x="0" y="55" width="250" height="30" fill="#fef5e7" rx="3"/>
+    <text x="10" y="75" font-size="12" fill="#d68910">✓ Abiraterone: Oral, potent</text>
+    
+    <rect x="0" y="90" width="250" height="30" fill="#ebf5fb" rx="3"/>
+    <text x="10" y="110" font-size="12" fill="#2874a6">✓ Olaparib: Precision med</text>
+    
+    <rect x="0" y="125" width="250" height="30" fill="#fadbd8" rx="3"/>
+    <text x="10" y="145" font-size="12" fill="#922b21">✓ Lu-177: Targets mets</text>
+    
+    <rect x="0" y="160" width="250" height="30" fill="#d6eaf8" rx="3"/>
+    <text x="10" y="180" font-size="12" fill="#1b4f72">✓ All FDA approved!</text>
+  </g>
+  
+  <!-- Footer -->
+  <rect x="0" y="1500" width="1200" height="100" fill="#34495e"/>
+  <text x="600" y="1540" font-family="Arial" font-size="16" text-anchor="middle" fill="white">
+    Data Source: ChEMBL Database | DrugBank | Clinical Trial Publications
+  </text>
+  <text x="600" y="1570" font-family="Arial" font-size="14" text-anchor="middle" fill="#bdc3c7">
+    © 2024 PharmaCancerRevolution | For Educational Purposes Only
+  </text>
+</svg>
